@@ -1,5 +1,5 @@
 import java.util.*;
-class 
+class Odd
 {
     public static void main(String args[])
     {
