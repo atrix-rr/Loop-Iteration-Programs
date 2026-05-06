@@ -12,7 +12,7 @@ class Pattern4
             {
                 System.out.print(j);
             }
-        }
+        } 
         
     }
 }
