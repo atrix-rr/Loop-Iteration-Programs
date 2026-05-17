@@ -5,6 +5,8 @@ class Pattern5
     {
         Scanner sc=new Scanner(System.in);
 
-        System
+        System.out.println("");
+        int i=1;
+        for(i=1;i)
     }
 }
